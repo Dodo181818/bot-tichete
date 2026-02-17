@@ -168,4 +168,5 @@ Te rugăm să descrii problema ta și un membru Support te va ajuta cât mai rap
   }
 });
 
-client.login("process.env.TOKEN");
+
+client.login(process.env.TOKEN);
